@@ -3,6 +3,6 @@ En este repositorio se almacenarán los cambios y el proyecto mismo, que consist
 |Lo que inicialemente quiero hacer|
 |---------------------------------|
 |1.Encuesta de satisfacción
-1.Encuesta de mejoras
-1.Comentarios y sugerencias
-1.Posibles "concursos" y promociones|
+2.Encuesta de mejoras
+3.Comentarios y sugerencias
+4.Posibles "concursos" y promociones|
